@@ -1,0 +1,15 @@
+[submodule "sim-outorder_Alpha-21264-BP"]
+	path = sim-outorder_Alpha-21264-BP
+	url = https://github.com/yszheda/sim-outorder_Alpha-21264-BP.git
+[submodule "sim-outorder_PLRU-cache"]
+	path = sim-outorder_PLRU-cache
+	url = https://github.com/yszheda/sim-outorder_PLRU-cache.git
+[submodule "sim-outorder_DIP-cache"]
+	path = sim-outorder_DIP-cache
+	url = https://github.com/yszheda/sim-outorder_DIP-cache.git
+[submodule "sim-outorder_RRIP-HP-cache"]
+	path = sim-outorder_RRIP-HP-cache
+	url = https://github.com/yszheda/sim-outorder_RRIP-HP-cache.git
+[submodule "sim-outorder_RRIP-FP-cache"]
+	path = sim-outorder_RRIP-FP-cache
+	url = https://github.com/yszheda/sim-outorder_RRIP-FP-cache.git
